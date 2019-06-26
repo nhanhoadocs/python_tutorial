@@ -64,7 +64,7 @@ hcn_1.chuvi()
 * Tính đa hình
 * Tính trừu tượng
 
-**1 Tính kế thừa**
+**1. Tính kế thừa**
 
 Python cho phép tạo ra một class bằng cách mở rộng từ một hoặc nhiều class có sẵn. Lớp con sẽ kế thừa các thuộc tính, phương thức và các thành phần khác từ class cha. Nó có thể ghi đè (override) các phương thức từ class cha. Nếu lớp con không tự định nghĩa một constructor nó sẽ được kế thừa lại constructor của lớp cha.
 
